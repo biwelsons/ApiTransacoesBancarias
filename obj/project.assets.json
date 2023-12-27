@@ -4123,11 +4123,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GUILHERME FIGUEIREDO\\Desktop\\ApiTransacoesBancarias\\ApiTransacoesBancarias.csproj",
+      "projectUniqueName": "C:\\Users\\GUILHERME FIGUEIREDO\\Desktop\\ApiTransacoesBancarias - Copia\\ApiTransacoesBancarias.csproj",
       "projectName": "ApiTransacoesBancarias",
-      "projectPath": "C:\\Users\\GUILHERME FIGUEIREDO\\Desktop\\ApiTransacoesBancarias\\ApiTransacoesBancarias.csproj",
+      "projectPath": "C:\\Users\\GUILHERME FIGUEIREDO\\Desktop\\ApiTransacoesBancarias - Copia\\ApiTransacoesBancarias.csproj",
       "packagesPath": "C:\\Users\\GUILHERME FIGUEIREDO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GUILHERME FIGUEIREDO\\Desktop\\ApiTransacoesBancarias\\obj\\",
+      "outputPath": "C:\\Users\\GUILHERME FIGUEIREDO\\Desktop\\ApiTransacoesBancarias - Copia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\GUILHERME FIGUEIREDO\\AppData\\Roaming\\NuGet\\NuGet.Config"

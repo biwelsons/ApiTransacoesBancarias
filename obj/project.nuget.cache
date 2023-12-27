@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GVxaTU1n0rNJ+VJqtK/Fbjc/UZqqeiHFJXjm7ARwQdvF1EX0BZrHyOpvEbU617MtYKfOGSCv6xQ+sls4p1FRcQ==",
+  "dgSpecHash": "tiIalUfS6ySerdxQAFfDrtkHXcQAZtlEECYTfG/+aQ5yIqtbSevMGXF+xyESxsnfnMb+NzGVSHjQRkrzxfaQ/g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\GUILHERME FIGUEIREDO\\Desktop\\ApiTransacoesBancarias\\ApiTransacoesBancarias.csproj",
+  "projectFilePath": "C:\\Users\\GUILHERME FIGUEIREDO\\Desktop\\ApiTransacoesBancarias - Copia\\ApiTransacoesBancarias.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\GUILHERME FIGUEIREDO\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\GUILHERME FIGUEIREDO\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

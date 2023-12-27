@@ -10,7 +10,7 @@ namespace ApiTransacoesBancarias
     {
         public void ConfigureServices(IServiceCollection services)
         {
-            var key = Encoding.ASCII.GetBytes("sua_chave_secreta_para_gerar_tokens_jwt");
+            var key = Encoding.ASCII.GetBytes("fedaf7d8863b48e197b9287d492b708e");
 
                 services.AddAuthentication(auth =>
                 {
